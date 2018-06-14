@@ -1,0 +1,45 @@
+{
+  "_from": "ionic3-calendar-en",
+  "_id": "ionic3-calendar-en@1.0.9",
+  "_inBundle": false,
+  "_integrity": "sha512-4r0SjCfc7KGUP3Gl0wXjIBtkJ8hN0juADzGx/3eXcXFST8T8jpX4z6wwVIqFp3uhz7o1wgovgHSx3qfhMNuTww==",
+  "_location": "/ionic3-calendar-en",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "ionic3-calendar-en",
+    "name": "ionic3-calendar-en",
+    "escapedName": "ionic3-calendar-en",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_shasum": "217b71797869b74e56e9381f2d01dd0589dbcabe",
+  "_spec": "ionic3-calendar-en",
+  "_where": "/Users/dylantxa/Desktop/Ionic Projets/Remembr2",
+  "author": {
+    "name": "gbrits_0"
+  },
+  "bugs": {
+    "url": "https://github.com/gbrits/ionic-calendar/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "An event calendar component for the Ionic hybrid mobile development platform",
+  "devDependencies": {
+    "typescript": "2.3.4"
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "name": "ionic3-calendar-en",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.9"
+}
